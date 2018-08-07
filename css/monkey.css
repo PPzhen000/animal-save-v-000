@@ -10,9 +10,9 @@ html {
 
 /* Write your solution here */
 
-/*@media only screen and (min-width: 400px) and (max-width: 1180px) {
+@media only screen and (min-width: 400px) and (max-width: 1180px) {
 
   #monkey {
-    top: 130px;
+    top: 6500px;
   }
-}*/
+}
